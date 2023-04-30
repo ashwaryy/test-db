@@ -1,0 +1,165 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "jdoe",
+            "email": "jdoe@example.com",
+            "firstName": "John",
+            "lastName": "Doe",
+            "avatar": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+            "createdAt": "2022-01-01T00:00:00.000Z",
+            "updatedAt": "2022-01-01T00:00:00.000Z",
+            "roles": [
+                "admin",
+                "editor"
+            ],
+            "isActive": true,
+            "lastLogin": "2022-01-05T12:34:56.000Z",
+            "role": "admin"
+        },
+        {
+            "id": 2,
+            "username": "jsmith",
+            "email": "jsmith@example.com",
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "avatar": "https://www.gravatar.com/avatar/d4c74594d841139328695756648b6bd6",
+            "createdAt": "2022-01-02T00:00:00.000Z",
+            "updatedAt": "2022-01-02T00:00:00.000Z",
+            "roles": [
+                "editor"
+            ],
+            "isActive": true,
+            "lastLogin": "2022-01-07T09:12:34.000Z",
+            "role": "editor"
+        },
+        {
+            "id": 3,
+            "username": "mjohnson",
+            "email": "mjohnson@example.com",
+            "firstName": "Mark",
+            "lastName": "Johnson",
+            "avatar": "https://www.gravatar.com/avatar/4e3a3f7a4d4d9404c69db1353f3ecece",
+            "createdAt": "2022-01-03T00:00:00.000Z",
+            "updatedAt": "2022-01-03T00:00:00.000Z",
+            "roles": [
+                "viewer"
+            ],
+            "isActive": true,
+            "lastLogin": "2022-01-06T15:45:23.000Z",
+            "role": "viewer"
+        },
+        {
+            "id": 4,
+            "username": "rwilliams",
+            "email": "rwilliams@example.com",
+            "firstName": "Rachel",
+            "lastName": "Williams",
+            "avatar": "https://www.gravatar.com/avatar/6d4c4c98adaf8cfba2e254f6a780f807",
+            "createdAt": "2022-01-04T00:00:00.000Z",
+            "updatedAt": "2022-01-04T00:00:00.000Z",
+            "roles": [
+                "editor"
+            ],
+            "isActive": true,
+            "lastLogin": "2022-01-07T12:30:45.000Z",
+            "role": "editor"
+        },
+        {
+            "id": 5,
+            "username": "awilson",
+            "email": "awilson@example.com",
+            "firstName": "Alex",
+            "lastName": "Wilson",
+            "avatar": "https://www.gravatar.com/avatar/00000000000000000000000000000000",
+            "createdAt": "2022-01-05T00:00:00.000Z",
+            "updatedAt": "2022-01-05T00:00:00.000Z",
+            "roles": [
+                "viewer"
+            ],
+            "isActive": true,
+            "lastLogin": "2022-01-08T08:56:23.000Z",
+            "role": "viewer"
+        },
+        {
+            "id": 6,
+            "username": "cdavis",
+            "email": "cdavis@example.com",
+            "firstName": "Chris",
+            "lastName": "Davis",
+            "avatar": "https://www.gravatar.com/avatar/00000000000000000000000000000000",
+            "createdAt": "2022-01-06T00:00:00.000Z",
+            "updatedAt": "2022-01-06T00:00:00.000Z",
+            "roles": [
+                "editor"
+            ],
+            "isActive": true,
+            "lastLogin": "2022-01-09T11:23:45.000Z",
+            "role": "editor"
+        },
+        {
+            "id": 7,
+            "username": "jlee",
+            "email": "jlee@example.com",
+            "firstName": "Jessica",
+            "lastName": "Lee",
+            "avatar": "https://www.gravatar.com/avatar/00000000000000000000000000000000",
+            "createdAt": "2022-01-07T00:00:00.000Z",
+            "updatedAt": "2022-01-07T00:00:00.000Z",
+            "roles": [
+                "viewer"
+            ],
+            "isActive": true,
+            "lastLogin": "2022-01-10T14:20:01.000Z",
+            "role": "viewer"
+        },
+        {
+            "id": 8,
+            "username": "jparker",
+            "email": "jparker@example.com",
+            "firstName": "James",
+            "lastName": "Parker",
+            "avatar": "https://www.gravatar.com/avatar/00000000000000000000000000000000",
+            "createdAt": "2022-01-08T00:00:00.000Z",
+            "updatedAt": "2022-01-08T00:00:00.000Z",
+            "roles": [
+                "viewer"
+            ],
+            "isActive": true,
+            "lastLogin": "2022-01-11T09:10:11.000Z",
+            "role": "viewer"
+        },
+        {
+            "id": 9,
+            "username": "mmiller",
+            "email": "mmiller@example.com",
+            "firstName": "Mary",
+            "lastName": "Miller",
+            "avatar": "https://www.gravatar.com/avatar/00000000000000000000000000000000",
+            "createdAt": "2022-01-09T00:00:00.000Z",
+            "updatedAt": "2022-01-09T00:00:00.000Z",
+            "roles": [
+                "editor"
+            ],
+            "isActive": true,
+            "lastLogin": "2022-01-12T16:34:56.000Z",
+            "role": "editor"
+        },
+        {
+            "id": 10,
+            "username": "ssmith",
+            "email": "ssmith@example.com",
+            "firstName": "Sarah",
+            "lastName": "Smith",
+            "avatar": "https://www.gravatar.com/avatar/00000000000000000000000000000000",
+            "createdAt": "2022-01-10T00:00:00.000Z",
+            "updatedAt": "2022-0110T00:00:00.000Z",
+            "roles": [
+                "viewer"
+            ],
+            "isActive": true,
+            "lastLogin": "2022-01-13T12:45:23.000Z",
+            "role": "viewer"
+        }
+    ]
+}
