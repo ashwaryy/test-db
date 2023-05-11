@@ -161,5 +161,52 @@
             "lastLogin": "2022-01-13T12:45:23.000Z",
             "role": "viewer"
         }
+    ],
+    "reports": [
+        {
+            "_id": "1",
+            "name": "Report 1",
+            "created_at": "2023-05-01T00: 00: 00",
+            "created_by": "User1",
+            "modified_at": "2023-05-02T00: 00: 00",
+            "modified_by": "User1",
+            "url": "http://example.com/report1"
+        },
+        {
+            "_id": "2",
+            "name": "Report 2",
+            "created_at": "2023-05-03T00: 00: 00",
+            "created_by": "User2",
+            "modified_at": "2023-05-04T00: 00: 00",
+            "modified_by": "User2",
+            "url": "http://example.com/report2"
+        },
+        {
+            "_id": "3",
+            "name": "Report 3",
+            "created_at": "2023-05-05T00: 00: 00",
+            "created_by": "User3",
+            "modified_at": "2023-05-06T00: 00: 00",
+            "modified_by": "User3",
+            "url": "http://example.com/report3"
+        },
+        {
+            "_id": "4",
+            "name": "Report 4",
+            "created_at": "2023-05-07T00: 00: 00",
+            "created_by": "User4",
+            "modified_at": "2023-05-08T00: 00: 00",
+            "modified_by": "User4",
+            "url": "http://example.com/report4"
+        },
+        {
+            "_id": "5",
+            "name": "Report 5",
+            "created_at": "2023-05-09T00: 00: 00",
+            "created_by": "User5",
+            "modified_at": "2023-05-10T00: 00: 00",
+            "modified_by": "User5",
+            "url": "http://example.com/report5"
+        }
     ]
 }
